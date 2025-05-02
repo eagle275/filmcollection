@@ -1,0 +1,48 @@
+[
+  {
+    "titel": "Scarface",
+    "laufzeit": 170,
+    "erschienen": 1983,
+    "id": 1,
+    "regie": [1],
+    "cast": [11, 12]
+  },
+  {
+    "titel": "Matrix",
+    "laufzeit": 136,
+    "erschienen": 1999,
+    "id": 2,
+    "regie": [2, 3],
+    "cast": [9, 10]
+  },
+  {
+    "titel": "Cloud Atlas",
+    "laufzeit": 172,
+    "erschienen": 2012,
+    "id": 3,
+    "regie": [2, 3, 4],
+    "cast": [6, 7, 8]
+  },
+  {
+    "titel": "Cast Away",
+    "laufzeit": 170,
+    "erschienen": 1983,
+    "id": 4,
+    "regie": [5],
+    "cast": [6]
+  },
+  {
+    "titel": "Calculating Ada",
+    "laufzeit": 58,
+    "erschienen": 2019,
+    "id": 5,
+    "thema": "Mathematik"
+  },
+  {
+    "titel": "Mallorca Cool",
+    "laufzeit": 45,
+    "erschienen": 2014,
+    "id": 6,
+    "ort": "Mallorca"
+  }
+]
